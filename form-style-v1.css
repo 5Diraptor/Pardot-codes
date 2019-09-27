@@ -1,4 +1,8 @@
 html, body, form, div, h1, h2, h3, h4, h5, p, input {
-  font-color: green; color: blue;}
+  font-color: green; color: blue;
+}
 
+body {
+  background-color: #282840;
+}
 
